@@ -1,2 +1,3 @@
-# IA-fundamentals
-Código de la clase de IA fundamentals de la MSCDIA
+# Maestria de Ciencia de Datos e Inteligencia Artificial
+IA Fundamental
+  - Tarea 3
