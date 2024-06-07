@@ -44,3 +44,18 @@ def roulette_wheel_selection(population: list, all_fitness: list) -> list:
     selection_probs = [f/total_fitness for f in all_fitness]
 
     return population[np.random.choice(len(population), p=selection_probs)]
+
+print("Population Size: ", len(population))
+print("Num. cities: ", N)
+print(population)
+
+all_fitness = [fitness(individual) for individual in population]
+print(all_fitness, "\n")
+
+
+
+
+
+
+
+
