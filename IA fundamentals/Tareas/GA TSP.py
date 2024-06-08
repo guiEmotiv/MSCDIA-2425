@@ -35,9 +35,9 @@ def fitness(solution: list) -> float:
     return distance
 
 population = create_initial_population(pop_size, N)
-print(population)
+#print(population)
 Plotting.plot_tsp(cities, population[0])
-print(fitness(population[0]))
+#print(fitness(population[0]))
 
 def roulette_wheel_selection(population: list, all_fitness: list) -> list:
     total_fitness = sum(all_fitness)
@@ -47,10 +47,10 @@ def roulette_wheel_selection(population: list, all_fitness: list) -> list:
 
 print("Population Size: ", len(population))
 print("Num. cities: ", N)
-print(population)
+print("population 0:2",population[0:2])
 
 all_fitness = [fitness(individual) for individual in population]
-print(all_fitness, "\n")
+print("all_fitness 0:2", all_fitness[0:2], "\n")
 
 
 

@@ -1,0 +1,201 @@
+student_id,student_name,age,gender
+1,,-5,Masculino
+2,Estudiante 2,10,Femenino
+3,Estudiante 3,18,Femenino
+4,Estudiante 4,21,Femenino
+5,Estudiante 5,21,Femenino
+6,Estudiante 6,21,Masculino
+7,Estudiante 7,19,Masculino
+8,Estudiante 8,21,Masculino
+9,Estudiante 9,23,Femenino
+10,Estudiante 10,20,Femenino
+11,Estudiante 11,22,Masculino
+12,Estudiante 12,24,Femenino
+13,Estudiante 13,18,Masculino
+14,Estudiante 14,18,Masculino
+15,Estudiante 15,22,Femenino
+16,,20,Masculino
+17,Estudiante 17,19,Femenino
+18,Estudiante 18,24,Femenino
+19,Estudiante 19,24,Femenino
+20,Estudiante 20,10,Femenino
+21,Estudiante 21,19,Masculino
+22,Estudiante 22,23,Masculino
+23,Estudiante 23,19,Masculino
+24,Estudiante 24,23,Femenino
+25,,18,Femenino
+26,Estudiante 26,19,Femenino
+27,,22,Masculino
+28,Estudiante 28,21,Femenino
+29,Estudiante 29,18,Femenino
+30,Estudiante 30,21,Femenino
+31,Estudiante 31,23,Femenino
+32,Estudiante 32,24,Masculino
+33,Estudiante 33,18,Masculino
+34,Estudiante 34,20,Femenino
+35,Estudiante 35,21,Femenino
+36,Estudiante 36,18,Masculino
+37,Estudiante 37,19,Masculino
+38,Estudiante 38,21,Masculino
+39,Estudiante 39,23,Femenino
+40,Estudiante 40,21,Femenino
+41,Estudiante 41,21,Masculino
+42,Estudiante 42,24,Femenino
+43,Estudiante 43,18,Femenino
+44,Estudiante 44,19,Femenino
+45,Estudiante 45,30,Femenino
+46,Estudiante 46,19,Femenino
+47,Estudiante 47,18,Masculino
+48,Estudiante 48,20,Masculino
+49,Estudiante 49,22,Masculino
+50,Estudiante 50,21,Femenino
+51,Estudiante 51,24,Masculino
+52,Estudiante 52,21,Femenino
+53,,20,Masculino
+54,Estudiante 54,22,Femenino
+55,,20,Femenino
+56,Estudiante 56,18,Masculino
+57,Estudiante 57,18,Masculino
+58,Estudiante 58,22,Masculino
+59,,23,Femenino
+60,Estudiante 60,23,Masculino
+61,Estudiante 61,24,Masculino
+62,Estudiante 62,18,Femenino
+63,Estudiante 63,30,Femenino
+64,Estudiante 64,19,Femenino
+65,Estudiante 65,22,Femenino
+66,Estudiante 66,19,Masculino
+67,Estudiante 67,20,Femenino
+68,Estudiante 68,20,Masculino
+69,,18,Masculino
+70,Estudiante 70,19,Masculino
+71,Estudiante 71,19,Masculino
+72,Estudiante 72,19,Femenino
+73,Estudiante 73,19,Femenino
+74,Estudiante 74,21,Femenino
+75,Estudiante 75,24,Masculino
+76,Estudiante 76,21,Femenino
+77,Estudiante 77,24,Masculino
+78,Estudiante 78,20,Masculino
+79,Estudiante 79,21,Femenino
+80,Estudiante 80,18,Femenino
+81,Estudiante 81,24,Femenino
+82,Estudiante 82,21,Femenino
+83,Estudiante 83,30,Femenino
+84,Estudiante 84,22,Femenino
+85,Estudiante 85,19,Masculino
+86,Estudiante 86,-5,Masculino
+87,Estudiante 87,22,Femenino
+88,Estudiante 88,21,Femenino
+89,Estudiante 89,22,Femenino
+90,Estudiante 90,24,Femenino
+91,Estudiante 91,22,Femenino
+92,Estudiante 92,22,Femenino
+93,Estudiante 93,21,Femenino
+94,Estudiante 94,22,Femenino
+95,Estudiante 95,22,Femenino
+96,Estudiante 96,22,Femenino
+97,Estudiante 97,18,Masculino
+98,Estudiante 98,24,Masculino
+99,Estudiante 99,22,Masculino
+100,Estudiante 100,21,Masculino
+101,Estudiante 101,20,Femenino
+102,Estudiante 102,23,Femenino
+103,Estudiante 103,23,Femenino
+104,Estudiante 104,10,Masculino
+105,Estudiante 105,18,Femenino
+106,,19,Femenino
+107,Estudiante 107,30,Femenino
+108,,10,Femenino
+109,Estudiante 109,21,Femenino
+110,Estudiante 110,18,Femenino
+111,Estudiante 111,23,Femenino
+112,Estudiante 112,30,Masculino
+113,Estudiante 113,18,Masculino
+114,Estudiante 114,19,Masculino
+115,Estudiante 115,20,Masculino
+116,Estudiante 116,22,Femenino
+117,Estudiante 117,-5,Femenino
+118,,18,Masculino
+119,Estudiante 119,23,Femenino
+120,Estudiante 120,21,Masculino
+121,Estudiante 121,20,Masculino
+122,Estudiante 122,20,Femenino
+123,Estudiante 123,23,Masculino
+124,Estudiante 124,18,Femenino
+125,Estudiante 125,23,Masculino
+126,Estudiante 126,19,Femenino
+127,Estudiante 127,18,Masculino
+128,Estudiante 128,20,Masculino
+129,Estudiante 129,20,Masculino
+130,,21,Masculino
+131,Estudiante 131,20,Femenino
+132,Estudiante 132,21,Femenino
+133,Estudiante 133,20,Femenino
+134,Estudiante 134,19,Masculino
+135,Estudiante 135,20,Femenino
+136,,24,Masculino
+137,Estudiante 137,21,Femenino
+138,,24,Masculino
+139,Estudiante 139,21,Masculino
+140,Estudiante 140,-5,Masculino
+141,Estudiante 141,20,Masculino
+142,Estudiante 142,24,Femenino
+143,Estudiante 143,21,Femenino
+144,Estudiante 144,22,Femenino
+145,Estudiante 145,19,Masculino
+146,Estudiante 146,20,Femenino
+147,Estudiante 147,21,Masculino
+148,Estudiante 148,24,Masculino
+149,Estudiante 149,19,Femenino
+150,Estudiante 150,20,Femenino
+151,Estudiante 151,19,Femenino
+152,Estudiante 152,22,Masculino
+153,Estudiante 153,20,Femenino
+154,Estudiante 154,24,Femenino
+155,Estudiante 155,-5,Masculino
+156,Estudiante 156,18,Femenino
+157,Estudiante 157,21,Masculino
+158,,20,Femenino
+159,,21,Femenino
+160,Estudiante 160,18,Masculino
+161,,18,Masculino
+162,,24,Femenino
+163,Estudiante 163,18,Femenino
+164,Estudiante 164,24,Masculino
+165,Estudiante 165,21,Femenino
+166,Estudiante 166,24,Femenino
+167,Estudiante 167,20,Femenino
+168,Estudiante 168,21,Femenino
+169,Estudiante 169,18,Femenino
+170,Estudiante 170,22,Femenino
+171,Estudiante 171,30,Masculino
+172,Estudiante 172,23,Masculino
+173,Estudiante 173,24,Femenino
+174,Estudiante 174,18,Masculino
+175,Estudiante 175,23,Femenino
+176,,20,Masculino
+177,Estudiante 177,21,Masculino
+178,Estudiante 178,-5,Femenino
+179,Estudiante 179,20,Femenino
+180,Estudiante 180,21,Femenino
+181,Estudiante 181,23,Femenino
+182,Estudiante 182,18,Femenino
+183,Estudiante 183,18,Masculino
+184,Estudiante 184,18,Femenino
+185,Estudiante 185,21,Femenino
+186,Estudiante 186,18,Femenino
+187,Estudiante 187,20,Masculino
+188,Estudiante 188,20,Masculino
+189,Estudiante 189,30,Femenino
+190,Estudiante 190,22,Femenino
+191,Estudiante 191,21,Masculino
+192,Estudiante 192,30,Femenino
+193,Estudiante 193,23,Femenino
+194,Estudiante 194,24,Femenino
+195,Estudiante 195,18,Masculino
+196,Estudiante 196,22,Masculino
+197,Estudiante 197,21,Masculino
+198,,23,Femenino
+199,Estudiante 199,21,Masculino
+200,Estudiante 200,22,Masculino
