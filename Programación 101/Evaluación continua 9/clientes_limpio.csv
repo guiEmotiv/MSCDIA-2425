@@ -1,0 +1,198 @@
+id_cliente,nombre,direccion,email,edad,fecha_registro,activo
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Daniel Doyle,"600 Jeffery Parkways
+New Jamesside, MT 29394",zlawrence@example.org,56.0,2023-03-28,False
+571aa876-6c30-4511-b2b9-437a28df6ec4,Daniel Gallagher,"55940 Herrera Lane Apt. 849
+Barbaraland, AZ 87174",kendragalloway@example.org,46.0,2023-10-11,True
+a2bc372f-7412-4293-8729-4739614ff3d7,Carla Kelly,"283 Steven Groves
+Lake Mark, WI 07832",lydiatrujillo@example.com,60.0,2020-10-12,False
+9132b63e-f162-47e4-a9c3-49e03602f8ac,Emily Rios,"42388 Burgess Meadow Suite 532
+Daviston, VI 14872",courtneyconner@example.com,78.0,2022-06-04,True
+ff01cf99-988c-44c9-a1b1-cd2262801c45,David Tran,"USS Maldonado
+FPO AP 98920",kayla51@example.com,56.0,2021-08-13,False
+f26b4776-913e-4de2-a0c5-3cb83da9c2a9,Nicholas Cabrera,"Unit 8227 Box 8248
+DPO AP 55962",sarahcampos@example.net,28.0,2020-06-12,True
+abf3ad39-fec2-4bbe-a624-5bfa4fcca39a,Jessica Holmes,"50983 Adrian Station
+East Carloston, VI 43810",palmerjoshua@example.com,41.0,2020-07-06,True
+e1e3db63-ef7d-4c76-b92d-a22b21df306f,Kaitlyn Mueller,"16566 Shields Center
+North Richardmouth, AS 14823",jamesherrera@example.org,53.0,2021-07-20,False
+dfde4fbf-3ff3-40bf-b66e-cb15474ebc19,Jessica Callahan,"801 Gabriel Oval
+Lewisfurt, MH 08186",nicholasgalloway@example.com,41.0,2024-01-28,True
+6c4a37ea-4906-47f2-b47b-6dbac8fe3ccd,Monica Logan,"34309 Julie Centers Apt. 978
+North Susan, CO 24857",larsonemma@example.org,46.0,2021-06-17,True
+3f07f814-91d6-4f78-a3e9-de99f10c718b,Amanda Miller,"3534 Anderson Rue Suite 751
+South Christineshire, CT 10103",williamanderson@example.com,19.0,2023-11-06,False
+48f4ef12-5e99-43d2-be89-6c64e117dac3,Roy Warner,"841 Joseph Coves
+West Juan, IL 94559",james48@example.com,61.0,2020-09-11,False
+17a0df49-0d01-480f-989a-40c0e87d1c78,Sandra Williams,"427 Hoffman Creek
+Lake Rebeccaside, AZ 48894",russellwilliams@example.com,55.0,2023-12-09,False
+0a368ce7-dc57-4131-b8e1-daa7cbceabde,Christine Wright,"232 Nicole Burg Apt. 563
+Erikville, MS 05576",dwalker@example.com,77.0,2020-12-19,True
+39118497-3a43-42ba-9f0f-06cbcb9bc326,Corey Murphy,"8685 Darrell Green Apt. 940
+New Ryanmouth, NE 79958",cruzbarbara@example.com,50.0,2019-08-31,False
+ecf27e76-8519-4ff4-806e-d6e36fa17735,Melissa Bentley,"6159 Alvarado Crossing
+Williamchester, MD 53244",angela36@example.net,75.0,2024-02-23,False
+2c8d0e44-e71e-43a6-bf85-bf0ead64b56c,Elizabeth Kelley,"69957 Ramos Forest Suite 214
+Clarencebury, TX 41188",lindsayhernandez@example.org,78.0,2020-08-31,False
+c4bbb7a9-d988-48dd-9c7c-737779a28903,Jason Soto,"6320 Kimberly Forges Apt. 870
+Port David, DC 61402",stephanie79@example.net,42.0,2023-11-26,True
+8c41561b-e827-41b9-94a0-2e536d3ee1dc,Christopher Hensley,"487 Joshua Club
+Jimmymouth, MD 71299",taylorjesse@example.net,44.0,2020-03-16,True
+68586eba-6a34-4854-9071-4d5136c59dac,Cliente sin nombre,"096 Smith Knoll Suite 668
+South Jeffrey, NE 64155",priceelizabeth@example.com,59.0,2023-01-24,False
+20ac3703-eb67-446a-b7a6-e17cd72b6108,Ms. Susan Vargas,"627 Brent Light
+Jasonmouth, MA 50193",karen64@example.org,45.0,2021-10-17,False
+fff9f585-0d55-4b61-8a17-5dfebfc00dc8,Courtney Jones,"USS Webster
+FPO AE 26631",howelljohn@example.com,33.0,2022-10-16,True
+770c7798-37cc-463b-b2a0-345990604f62,Pamela Jackson,"41904 Sanders Stravenue
+North Brittany, MP 82714",curtisbarton@example.net,79.0,2022-06-11,False
+90e0f4a0-fbdd-4933-8bd5-8bf61efd76e9,Hannah Patterson,"67165 Zimmerman Mews Apt. 849
+Marshallshire, KY 42746",mariahmiller@example.com,64.0,2020-08-29,False
+ab0e664e-9c3e-42d5-91e1-aa9676f72255,Allen Rosales,"4549 Peters Path
+North John, MT 64539",hannahbrewer@example.com,68.0,2021-09-06,False
+38ba8abc-4b53-45e5-97d2-582e046a0df5,David Beck,"8557 Parker Fort Apt. 351
+East Javier, NJ 36742",tina34@example.org,72.0,2021-03-31,False
+88bd13d1-b540-430e-839f-3a254d6168bd,Angel Brown,"710 Harrison Mill
+Jackton, KS 63117",shortrichard@example.org,74.0,2022-04-30,True
+2631d00b-26d7-44d3-8db9-5301afbb411a,Tiffany Miller,"993 Hayes Mills Suite 964
+New Susanville, WV 27736",josephmiller@example.org,54.0,2020-04-23,True
+68949b8d-00af-4b3a-a812-859a1337739e,Kirk Carter,"713 French Road Apt. 618
+Lake Edward, KY 19144",brownlaura@example.net,24.0,2023-03-10,True
+706c5c56-49e2-423d-abd3-461691b78d8e,Michael Lyons,Dirección desconocida,mnavarro@example.com,26.0,2019-07-28,True
+d6016237-ac9e-4156-b63f-ce413a9aca5e,Laurie Smith,"027 Moon Falls Suite 717
+Rickymouth, TN 14211",marksteele@example.com,35.0,2022-10-03,False
+8cd321b0-c2b0-4cfd-9045-dd1c668409e3,Brandon King,"087 Brown Path Suite 977
+East Josephberg, LA 57925",omartinez@example.net,42.0,2023-06-10,False
+8d03c91e-4f8d-4238-a88b-78b5b5b453ca,Jason Walker,"1274 Perry Orchard
+Sanchezside, FL 50778",sandraromero@example.org,31.0,2023-10-06,False
+dabac50d-ca3d-4859-85ce-099c46b82659,Timothy Romero,"499 Grimes Mission Suite 558
+Gibsonmouth, VI 25228",ashleyhall@example.com,75.0,2019-08-29,True
+e9d68f23-b489-4070-b914-f8a8bea4ff31,Jasmin Alvarado,"0289 Kane Well
+Garciamouth, AL 95193",robertpena@example.org,43.0,2019-10-25,True
+56abf2f1-43d8-4870-b81d-baa1c8120a8e,Jennifer Miller,"7809 Jimmy Spur Suite 316
+Port Cynthiaville, NV 22306",rebecca05@example.org,19.0,2020-11-27,False
+3e83b91f-2544-4fe0-ae41-7d475ff595ea,Kylie Sparks,"693 Durham Divide
+South Dana, NH 33967",nolansteven@example.com,45.0,2022-10-30,True
+f1faf665-7115-43f3-92e8-9d1028711733,Kevin Fowler,"4367 John Ports Suite 944
+Port Dominiqueview, AL 74678",lozanojulie@example.com,77.0,2023-04-28,True
+5a31b4cc-cd4b-49a9-9b68-9c883ae909fe,Connor King,"104 Johnson Lakes
+North Renee, MD 98474",ithompson@example.net,61.0,2023-10-29,True
+e9da484a-8075-4f1f-87e5-f0fe5da8d6d2,Christopher Sloan,"USNV Francis
+FPO AA 15596",jmccarty@example.org,25.0,2023-09-29,False
+65bcc272-fadd-4ea3-aca5-e2fdb966442a,Regina Diaz,"8175 Richards View
+Danielbury, NJ 03781",rose31@example.net,52.0,2023-07-25,False
+a6348e78-4d5c-45c7-b379-cb1ee8cda0cc,Charles Shah,"13826 Watson Summit Suite 926
+Port Tracychester, KY 04789",jeff73@example.com,34.0,2019-12-09,False
+e6d5901d-8b62-4d41-9e09-a9eeaf88bdec,Heather Sanders,"1390 Kristin Gardens
+Port Anne, CA 73142",brendali@example.org,67.0,2021-01-31,False
+989240ac-e689-43a9-89e4-8e8c25c61c45,Scott Thomas,"10205 Brianna Brook Apt. 402
+Foxland, NJ 59257",william17@example.net,21.0,2020-07-19,False
+c8819065-ba2c-48ce-8b19-f88e9d77a45e,Mary Turner,"76617 Jones Common
+Charleneland, DC 36547",oscar98@example.com,79.0,2021-09-16,False
+cb08587d-1963-426d-ae21-8b099afd4015,Sarah Curtis,"7365 Ross Stream
+West Ronaldview, MN 20507",fjones@example.org,71.0,2021-08-08,False
+cfd01cbd-5f65-48ce-bd21-bc11be9d61ee,Anthony Frye,"5604 Bell Ports
+East Diane, IN 14685",megan51@example.com,21.0,2022-04-24,False
+8f9b72ae-d85c-46bd-adda-4f8dcea60f4c,Sabrina Austin,"402 Park Inlet
+Michaelburgh, VI 19277",vjones@example.net,46.0,2024-04-20,True
+3712f2d1-87cd-46a1-bf01-2e32177d6e7e,Jesse Moore,"910 Eric River Apt. 147
+Tuckermouth, MT 36305",kariwilson@example.com,35.0,2019-12-30,False
+7c93f6cc-97d7-4560-adb1-4670ad9fb00d,Elizabeth Walker,"Unit 0034 Box 3244
+DPO AA 16227",jimenezryan@example.org,61.0,2021-05-05,False
+8f0881ee-8011-416b-bae8-8926b423ccde,Renee Jones,"0715 Berry Station
+Robertsfurt, AK 43069",lauriemontgomery@example.net,27.0,2024-01-16,False
+1b19d8b8-d830-4081-afcc-57dd168fae12,Kevin Warren,"535 Charles Roads Apt. 883
+Michaelberg, IA 13975",jonathanthompson@example.org,53.0,2023-03-30,False
+f387e1bd-2d59-42c6-934a-5a2fa7cf705c,Kathleen Webster,"995 Hernandez Cliff Suite 744
+West Williamport, NH 59734",brownmarie@example.org,48.0,2022-08-31,False
+9d713084-171d-4bf9-9af4-81a7fa34d2e8,Janice Carpenter,"USS Cole
+FPO AP 85938",marcalvarez@example.org,32.0,2024-03-25,False
+e62d2d06-cf9b-4558-9a7f-195b73557b9d,Vickie Miller,"77889 Michael Haven
+Ortizmouth, TX 78867",mccormickdeborah@example.org,31.0,2021-02-02,True
+48bddb3e-62f5-4f2b-adaa-44ca8ed6ad5e,Samuel Brandt,"1925 Ponce Square
+Andersonland, ME 73760",vschneider@example.org,77.0,2022-10-17,True
+ff4625af-bd20-463b-b275-b5f3d436a7a8,Kelsey Lucas,"54235 Lee Dam Apt. 141
+Lake Matthewberg, PA 49878",francisguerra@example.net,79.0,2023-06-28,False
+0b2f6d5c-700b-4d5f-b89f-72f32a60c652,Michael Young,"738 Kyle Valleys Suite 359
+Murrayport, WI 50553",mburch@example.net,38.0,2020-02-18,False
+7b07fd31-a424-4f23-8d5b-a7cd400035f0,Kristen Garcia,"1247 Mariah Course
+Port Shannon, MI 03996",gbrown@example.com,62.0,2020-08-14,False
+397b5f51-5ffa-46ef-94e4-180cfe9936a3,Timothy Combs,"04727 Gilbert Common
+West Jasonberg, OH 95821",srodriguez@example.org,64.0,2020-12-12,True
+a3925731-6b79-4fcc-bd0a-5f0c0c394ec7,Joyce Rodriguez,"PSC 9808, Box 9324
+APO AA 00706",john62@example.net,41.0,2022-10-13,False
+11536e99-5c50-4720-b982-f4e08603156a,Kimberly Hartman,"7065 Burgess Knolls
+West Johnville, WI 76772",dennis58@example.com,42.0,2023-07-06,False
+af475b49-c775-4395-9494-05f02cd2a404,Michael Welch,"704 Bradley Flats
+West Sarahhaven, MO 71677",wking@example.net,77.0,2020-05-25,False
+0c3ce284-c7e5-4bbb-9cb5-1c535b62a8df,Evelyn Martinez,"765 Tyler Parks Suite 841
+Millerburgh, ND 39005",curtis54@example.com,62.0,2021-09-02,True
+b0946d2a-2aa9-4b43-ad15-f16fb7b8c1a5,Jeremy Acosta,"PSC 9640, Box 1658
+APO AP 89552",stephaniethomas@example.net,46.0,2022-10-31,True
+113634a5-2050-4c62-88e8-95d7702c1821,Matthew Cox,"USS Jacobs
+FPO AP 59473",nathan19@example.org,62.0,2022-02-02,True
+4758367b-a649-4cdc-907b-907265e58f34,Brian Fitzgerald,"144 Lewis Ridge Suite 731
+Port Charles, HI 94003",zosborn@example.net,42.0,2024-04-12,True
+58f0dd23-aaf7-4c67-91d0-8109fc902838,Krista Roberts,"258 David Flats
+East Kristy, AK 47804",tanner82@example.net,26.0,2023-11-12,False
+ffe575f6-65ed-4fe3-8f2d-ad3f10d4de39,Karen Jenkins,"51778 Anderson Village
+Port Tammy, NE 66412",guerraapril@example.com,18.0,2020-04-06,False
+39b86bb2-b596-4a7c-af4a-fa885299e505,Todd Jacobson,"84249 Wayne Extension Apt. 299
+Meganshire, AZ 04219",williamsdarlene@example.net,25.0,2020-10-06,False
+6aa56e6d-9277-4574-8457-6cc335f789bc,Amanda Small,"3647 Haley Estate Suite 677
+West Catherine, MD 94658",jessica56@example.org,28.0,2023-03-31,True
+51b1943c-1b2e-4edb-8fc8-5fc083d5bceb,Bryan Cole,"6963 Lisa Ports
+Jamesburgh, NM 67967",tjimenez@example.com,34.0,2019-07-23,False
+750d112e-8164-4eec-a4ab-851bf1fac6e7,Cindy Gomez,"748 Melanie Meadows Apt. 456
+Brandonton, OK 74139",michaelroberts@example.com,52.0,2021-12-18,True
+d3479a3b-479b-4637-8cc3-6f3bc3affcfe,Melanie Wilson DVM,"523 Porter Cape Apt. 257
+Hernandezhaven, DC 43488",francisco94@example.net,50.0,2021-02-14,True
+7d66971e-8847-4c56-827c-9f8cd40ac5e9,Elizabeth Cabrera,"9409 Baker Shoal
+Lake Brett, NJ 22850",rhernandez@example.org,22.0,2019-08-07,False
+30d73df7-1c22-4cea-b355-56a5f2bd92f2,Erik Hernandez,"970 April Points Suite 786
+Suemouth, PW 70379",amy49@example.com,56.0,2020-05-27,False
+4c6a70f4-8ede-444d-876c-f68c3f1be0d0,William Evans,"757 Castro Underpass
+Keithshire, TX 71698",zhuang@example.com,58.0,2024-03-20,False
+0ac4de85-4a5b-4aff-a57f-7595cdfb4db9,Miguel Reed,"733 Fitzpatrick Square Suite 219
+East Brent, MH 70105",danawilliams@example.com,24.0,2021-02-03,True
+c550eca8-ae62-490c-99bd-4f9378ef7666,Vincent Spence,"3454 Rebecca Corners Apt. 802
+Khanburgh, PW 05264",lfrench@example.net,25.0,2024-04-02,False
+0997623a-e072-4d96-8a1a-81f5ed10f004,Keith Rodriguez,"Unit 4788 Box 7287
+DPO AA 25773",riverajessica@example.net,51.0,2020-09-23,True
+564cfbd2-bc92-4d81-839b-058c2faabe0b,Laura Todd,"8516 Jack Dam Suite 530
+Patrickmouth, WV 35496",kevin90@example.com,65.0,2022-09-17,True
+aaf407f7-0fe7-4149-bc7e-5368b1594847,Eric Sullivan,"145 Jeffrey Dale Suite 279
+Robertside, PW 62213",kathleenbecker@example.net,40.0,2023-10-23,False
+87365a84-725e-434d-8687-9aa914f573d0,Angela Elliott,"822 Bond Mills
+Lake Jamieshire, NM 12420",dstokes@example.org,41.0,2022-01-03,True
+8f0d5540-0ec7-4662-905c-7bdd74f0beae,Robert Cummings,"391 Rodney Squares
+New Virginialand, NJ 04660",robert26@example.com,52.0,2024-05-28,False
+eac80da1-de9f-4f5b-b2d3-545861ea2f30,Jaime Vega,"512 Rice Stream
+Port Adam, AK 39608",inunez@example.com,57.0,2022-02-06,False
+75eb89c2-3f5c-42f3-bacb-43a3d2c7bffb,Donald Pineda,"69033 Craig Bypass
+Harperton, IA 97565",moralesjimmy@example.org,44.0,2023-03-20,True
+80ff5173-23df-4cd7-8e73-1dd7c6ac1b04,Cynthia Hendricks DDS,"42836 Hill Point Apt. 687
+West Shellyfurt, WY 69243",heather62@example.com,18.0,2021-04-28,True
+3db0174e-7938-478a-89b5-aab0c12169db,Elizabeth Zimmerman,"668 Paul Glens
+West Deborah, NV 49138",nicholsmaria@example.org,54.0,2020-10-13,True
+0a1fc9df-9a59-4974-9adf-4709ac75c344,Chelsea Gill,"3540 Sharon Streets
+Lake Yvonnefort, PW 32298",randyallen@example.com,31.0,2023-04-27,True
+a6129a1c-889d-4b76-b75c-30b561730c48,Dennis Hunt,"753 Edwards Cape
+Lake Dustin, KS 73024",mphillips@example.com,18.0,2020-08-04,True
+7fd238c3-3ee8-4983-9557-424191ddb9bf,Terri Morgan,"772 Jackson Stravenue Suite 280
+Port Melanieton, WV 01337",otaylor@example.org,43.0,2019-10-13,True
+8177b661-37fe-432c-8257-185126a9e100,Antonio Little,"USCGC Hopkins
+FPO AE 01367",hsmith@example.net,31.0,2020-10-24,True
+80913ac1-0463-450e-8964-6b96fa3c1628,Megan Drake,"PSC 1182, Box 3398
+APO AA 46958",laura15@example.com,44.0,2021-09-26,True
+39d1c7ff-b27e-4442-bd7f-e9733e42df5b,Ronald Miller,"Unit 0166 Box 6870
+DPO AP 01739",christopherbruce@example.net,32.0,2023-05-14,True
+f94d8fcb-dba3-496f-ba32-3f6990dbfad6,Joseph Williams,"0148 Harry Vista Suite 039
+Port Lori, GU 52706",evansanne@example.net,43.0,2023-08-13,False
+8a624cbd-e582-4678-ad52-29dd639fc471,Perry Taylor,"Unit 1850 Box 1631
+DPO AA 79821",unovak@example.org,77.0,2022-08-12,True
+7d98302f-7357-41e5-be1a-1ba9c8969c5b,Juan Bennett,"94311 Moore Station Apt. 655
+North Adamport, NV 47676",curtis12@example.com,68.0,2021-09-08,True
+1a7167c7-6875-4545-832f-52c48e0370cf,Hector Davis,"0466 Jenny Points Apt. 982
+Jacksonview, ME 35681",kthomas@example.com,49.0,2020-10-27,True
+13b11e59-c85c-4714-bbf6-95524cbc9044,Tony Le,"1240 Cook River
+Brockmouth, NV 44375",pochoa@example.net,66.0,2020-02-14,False
